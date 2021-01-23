@@ -1,0 +1,13 @@
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\obj\Debug\netcoreapp3.1\DictionaryClassDemo.csprojAssemblyReference.cache
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\obj\Debug\netcoreapp3.1\DictionaryClassDemo.AssemblyInfoInputs.cache
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\obj\Debug\netcoreapp3.1\DictionaryClassDemo.AssemblyInfo.cs
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\obj\Debug\netcoreapp3.1\DictionaryClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\bin\Debug\netcoreapp3.1\DictionaryClassDemo.exe
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\bin\Debug\netcoreapp3.1\DictionaryClassDemo.deps.json
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\bin\Debug\netcoreapp3.1\DictionaryClassDemo.runtimeconfig.json
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\bin\Debug\netcoreapp3.1\DictionaryClassDemo.runtimeconfig.dev.json
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\bin\Debug\netcoreapp3.1\DictionaryClassDemo.dll
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\bin\Debug\netcoreapp3.1\DictionaryClassDemo.pdb
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\obj\Debug\netcoreapp3.1\DictionaryClassDemo.dll
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\obj\Debug\netcoreapp3.1\DictionaryClassDemo.pdb
+C:\Users\toshıba\source\repos\ClassMetotDemo\DictionaryClassDemo\obj\Debug\netcoreapp3.1\DictionaryClassDemo.genruntimeconfig.cache
